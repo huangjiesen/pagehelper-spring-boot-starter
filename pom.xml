@@ -147,10 +147,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/huangjiesen/spring-boot-request-body-encrypt.git</connection>
-        <developerConnection>scm:git:git@github.com:huangjiesen/spring-boot-request-body-encrypt.git
+        <connection>scm:git:https://github.com/huangjiesen/pagehelper-spring-boot-starter.git</connection>
+        <developerConnection>scm:git:git@github.com:huangjiesen/pagehelper-spring-boot-starter.git
         </developerConnection>
-        <url>https://github.com/huangjiesen/spring-boot-request-body-encrypt</url>
+        <url>https://github.com/huangjiesen/pagehelper-spring-boot-starter</url>
     </scm>
 
     <distributionManagement>
